@@ -26,6 +26,9 @@ SET time_zone = "+00:00";
 --
 -- Estructura de tabla para la tabla `inicio_de_sesion`
 --
+create database `u2_bdpapeleria_aarg`;
+
+use `u2_bdpapeleria_aarg`;
 
 CREATE TABLE `inicio_de_sesion` (
   `id` int(9) NOT NULL,
